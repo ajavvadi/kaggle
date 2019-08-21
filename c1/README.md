@@ -6,6 +6,6 @@ c1
       - full
           - train
           - test
-          train-rle.csv
+          - train-rle.csv
 
 However, feel free to change the directory locations accordingly.
